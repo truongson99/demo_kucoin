@@ -767,7 +767,11 @@ table tr:hover {
     width: 160px;
     height: 40px;
     margin-left: 35px;
+<<<<<<< HEAD
     margin-top: 45px;
+=======
+    margin-top:45px;
+>>>>>>> dea2cc3519c0ef6d6c25df645d9574277d34c2fe
 }
 
 .brand-footer {
