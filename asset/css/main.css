@@ -799,6 +799,10 @@ table .footer__table-tr:hover{
     color: #514f4f;
 }
 
+.footer__table_td:hover {
+    cursor: pointer;
+}
+
 .td-class {
     margin-top: 0;
     height: 20px;
