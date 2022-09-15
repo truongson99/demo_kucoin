@@ -689,6 +689,59 @@ table {
     cursor: pointer;
 }
 
+.container__5 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.container__5-left{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.container__5-left--top {
+    margin-bottom: 30px;
+}
+
+.container__5-left--bottom {
+    display: flex;
+    justify-content: space-between;
+    height: 130px;
+}
+
+.container__5-left--top-name {
+    font-size: xx-large;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.container__5-left--top-discription {
+    color: #727272;
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    font-weight: 300;
+}
+
+.container__5-7001tr{
+    font-size: x-large;
+    font-weight: 100;
+}
+
+.container__5-left--bottom-right,
+.container__5-left--bottom-left{
+    display: block;
+}
+
+.container__5-left--bottom-right-block {
+    margin-top: 15px;
+}
+
+
+.container5-brands {
+    font-size: x-large;
+}
+
 .h1-table {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
@@ -767,11 +820,7 @@ table tr:hover {
     width: 160px;
     height: 40px;
     margin-left: 35px;
-<<<<<<< HEAD
-    margin-top: 45px;
-=======
     margin-top:45px;
->>>>>>> dea2cc3519c0ef6d6c25df645d9574277d34c2fe
 }
 
 .brand-footer {
