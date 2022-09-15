@@ -766,7 +766,8 @@ table tr:hover {
 .footer__top-img {
     width: 160px;
     height: 40px;
-    margin-left: 30px;
+    margin-left: 35px;
+    margin-top:45px;
 }
 
 .brand-footer {
